@@ -1,0 +1,63 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="E266" />
+          <option value="E251" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+          <option value="N801" />
+          <option value="N806" />
+          <option value="N813" />
+          <option value="N814" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="list" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="PyQt5.QtWidgets.clicked.connect" />
+          <option value="test.case" />
+          <option value="main.*" />
+          <option value="scipy" />
+          <option value="Output.setupUi.textEdit_3" />
+          <option value="Gyrotron_Cavity_GUI_v5.Run.c0" />
+          <option value="int.pop" />
+          <option value="list.split" />
+          <option value="Output.*" />
+          <option value="str.remove" />
+          <option value="PyQt5.uic.loadUi" />
+          <option value="str.append" />
+          <option value="tuple.T" />
+          <option value="str.__setitem__" />
+          <option value="str.punctuation" />
+          <option value="Program.button.buttons_click.*" />
+          <option value="list.set_ydata" />
+          <option value="list.set_xdata" />
+          <option value="list.__getitem__" />
+          <option value="matplotlib.pyplot.hold" />
+          <option value="set.__getitem__" />
+          <option value="numpy.random.randrange" />
+          <option value="str.decode" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
