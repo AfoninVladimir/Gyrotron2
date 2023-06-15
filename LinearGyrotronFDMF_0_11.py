@@ -857,7 +857,7 @@ def LinearGyrotronFDMFv0_11(iparam, rparam, zi, Ri, Bi):
                     matrixB.write(" ")
                 matrixB.write("\n")
 
-    """Удаляем строки и столбцы из  матриц A и B для учета ГУ для производной поля"""
+    """Удаляем строки и столбцы из матриц A и B для учета ГУ для производной поля"""
     nrow = neqn
     ncol = neqn
 
